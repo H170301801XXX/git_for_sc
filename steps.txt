@@ -1,0 +1,6 @@
+1.【git add 文件名.后缀名】将文件加入到缓存区
+2.【git commit -m"注释"】将缓存区的文件添加到分支（可以多次add一次commit）
+3.【git push origin master】将分支推送到github
+
+
+【pwd】显示当前目录
